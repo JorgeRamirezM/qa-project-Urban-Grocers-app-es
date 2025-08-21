@@ -50,9 +50,6 @@ Este proyecto es una aplicación diseñada para realizar pruebas de calidad (QA)
     
 3.  Modifica los scripts (`create_kit_test.py`, `sender_stand_request.py`) para personalizar las pruebas según sea necesario.
 
-### Lista de comprobación de pruebas
-![](https://i.ibb.co/60SVcw8s/lista-de-comprobacion.png)
-
 ### Contribuciones
 
 Si deseas contribuir, por favor sigue los pasos:
@@ -62,3 +59,5 @@ Si deseas contribuir, por favor sigue los pasos:
 2.  Crea una rama con tus cambios: `git checkout -b mi-rama`
     
 3.  Envía un pull request describiendo tus modificaciones.
+
+Jorge Luis Ramirez Morales
